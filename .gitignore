@@ -15,9 +15,11 @@ obj/
 *.user
 
 # Vendored / third-party trees pulled in for local experimentation
-/tools/
-/external/
-/demo-code/
+/tools/w64devkit/
+/tools/w64devkit-src-openssl-test/
+/tools/winlibs-mingw/
+/tools/portablegl-labs/
+/tools/portablegl-smoke/
 
 # C# verification screenshots (regenerated on demand)
 demo-code-cs/verification/screenshots*/

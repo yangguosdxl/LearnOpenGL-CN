@@ -1,0 +1,16 @@
+[submodule "demo-code"]
+	path = demo-code
+	url = https://github.com/yangguosdxl/LearnOpenGL.git
+	branch = master
+[submodule "external/PortableGL"]
+	path = external/PortableGL
+	url = https://github.com/yangguosdxl/PortableGL.git
+	branch = master
+[submodule "external/mesa"]
+	path = external/mesa
+	url = https://gitlab.freedesktop.org/mesa/mesa.git
+	branch = main
+[submodule "tools/w64devkit-src"]
+	path = tools/w64devkit-src
+	url = https://github.com/yangguosdxl/w64devkit.git
+	branch = master
