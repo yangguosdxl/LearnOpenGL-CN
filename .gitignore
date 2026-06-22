@@ -4,3 +4,21 @@
 /build
 *.data
 **/.Archive
+bin/
+obj/
+
+# Local IDE / agent state
+.claude/
+.vscode/
+.vs/
+*.suo
+*.user
+
+# Vendored / third-party trees pulled in for local experimentation
+/tools/
+/external/
+/demo-code/
+
+# C# verification screenshots (regenerated on demand)
+demo-code-cs/verification/screenshots*/
+demo-code-cs/verification/*.png
